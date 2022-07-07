@@ -11,8 +11,8 @@
              <a href="https://j2c.cc/2fa-9psk-onmicrosoft"> <img src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" /> </a>
 
  <h3>Root folder</h3>
-             <a  href="https://iesatb-my.sharepoint.com/:f:/g/personal/9psk_msapp365_com/EoiwDs_J875PgWwNOYTs4tYB2TVQqNLwW0SBwqzj4h4NRg?e=wUA1ic"> <img width="50px" height="20px" src="https://raw.githubusercontent.com/Tu-Banh-2K3/Public-Media/f3c3cf22d75a1fa01d026963f74f6d38a915e3b5/Pictures/Icon/ico%207jul22.png" /></a>
-             <a  href="https://iesatb-my.sharepoint.com/:f:/g/personal/9psk_msapp365_com/EiKnvMU9d8FJkaX5y4Ztt-4BOfWhJ2qbB1PAn0vteDhN0g?e=OlaTCy"> <img width="50px" height="20px" src="https://raw.githubusercontent.com/Tu-Banh-2K3/Public-Media/f3c3cf22d75a1fa01d026963f74f6d38a915e3b5/Pictures/Icon/ico%207jul22.png" /></a>
+             <a  href="https://iesatb-my.sharepoint.com/:f:/g/personal/9psk_msapp365_com/EoiwDs_J875PgWwNOYTs4tYB2TVQqNLwW0SBwqzj4h4NRg?e=wUA1ic"> <img width="100px" height="40px" src="https://raw.githubusercontent.com/Tu-Banh-2K3/Public-Media/f3c3cf22d75a1fa01d026963f74f6d38a915e3b5/Pictures/Icon/ico%207jul22.png" /></a>
+             <a  href="https://iesatb-my.sharepoint.com/:f:/g/personal/9psk_msapp365_com/EiKnvMU9d8FJkaX5y4Ztt-4BOfWhJ2qbB1PAn0vteDhN0g?e=OlaTCy"> <img width="100px" height="40px" src="https://raw.githubusercontent.com/Tu-Banh-2K3/Public-Media/f3c3cf22d75a1fa01d026963f74f6d38a915e3b5/Pictures/Icon/ico%207jul22.png" /></a>
        
        
 <h1></h1>
